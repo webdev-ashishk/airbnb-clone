@@ -9,7 +9,7 @@ const Navbar = () => {
         <BrandLogo />
       </div>
 
-      <div className="flex items-center p-2 space-x-2 border rounded-2xl">
+      <div className="flex items-center p-1 space-x-2 border rounded-3xl">
         <span className="pl-2 text-sm">AnyWhere</span>
         <span>|</span>
         <span className="text-sm ">AnyWhere</span>
