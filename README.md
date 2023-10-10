@@ -4,3 +4,4 @@
 > 2. NextJS
 > 3. ShadCN UI
 > 4. Lucide React
+> 5. Tailwind CSS
